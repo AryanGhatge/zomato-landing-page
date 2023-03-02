@@ -1,1 +1,1 @@
-# zomato-landing-page
+# zomato-project
